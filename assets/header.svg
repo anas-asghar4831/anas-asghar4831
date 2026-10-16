@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">Anas Asghar: Senior Software Engineer</title><desc id="desc">Building products, connecting systems, automating workflows. An animated code-style introduction.</desc>
+<title id="title">Anas Asghar: Senior Software Engineer</title><desc id="desc">C#, .NET, ASP.NET Core and SQL Server, supported by full-stack web and mobile development. An animated code-style introduction.</desc>
 <rect width="1200" height="320" rx="16" fill="#101522"/>
 <path d="M805 0L640 320H1200V0Z" fill="#1b1c39"/>
 <path d="M851 0L685 320M917 0L751 320M983 0L817 320M1049 0L883 320M1115 0L949 320M1181 0L1015 320" stroke="#373451"/>
-<text x="46" y="57" fill="#7dd3fc" font-family="Consolas,monospace" font-size="19">SOFTWARE ENGINEERING / OCTACER</text>
+<text x="46" y="57" fill="#7dd3fc" font-family="Consolas,monospace" font-size="19">.NET ENGINEERING / OCTACER</text>
 <text x="40" y="140" fill="#f3f4ff" font-family="Segoe UI,Arial,sans-serif" font-size="77" font-weight="700">Anas Asghar<tspan class="name-cursor" fill="#a78bfa">_</tspan></text>
 <text x="46" y="190" fill="#b7a4ff" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="600">Senior Software Engineer</text>
-<svg x="46" y="210" width="650" height="38" viewBox="0 0 650 38"><text class="tagline" x="0" y="27" fill="#c5d2e7" font-family="Consolas,monospace" font-size="21">Product engineering. Reliable integrations.</text></svg>
-<text x="46" y="277" fill="#7dd3fc" font-family="Consolas,monospace" font-size="16">WEB + MOBILE / BACKEND / AUTOMATION</text>
+<svg x="46" y="210" width="650" height="38" viewBox="0 0 650 38"><text class="tagline" x="0" y="27" fill="#c5d2e7" font-family="Consolas,monospace" font-size="21">C# / .NET / ASP.NET Core / SQL Server</text></svg>
+<text x="46" y="277" fill="#7dd3fc" font-family="Consolas,monospace" font-size="16">.NET BACKEND / WEB + MOBILE / INTEGRATIONS</text>
 <rect x="752" y="56" width="408" height="214" rx="12" fill="#0d1117" stroke="#515475"/>
 <path d="M752 93H1160" stroke="#373c50"/>
 <circle cx="774" cy="75" r="5" fill="#f8798d"/><circle cx="792" cy="75" r="5" fill="#e9bc6f"/><circle cx="810" cy="75" r="5" fill="#70dbb1"/>
