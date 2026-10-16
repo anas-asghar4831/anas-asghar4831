@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Anas Asghar: Senior Software Engineer</title><desc id="desc">Building products, connecting systems, automating workflows. An animated code-style introduction.</desc>
+<rect width="1200" height="320" rx="16" fill="#101522"/>
+<path d="M805 0L640 320H1200V0Z" fill="#1b1c39"/>
+<path d="M851 0L685 320M917 0L751 320M983 0L817 320M1049 0L883 320M1115 0L949 320M1181 0L1015 320" stroke="#373451"/>
+<text x="46" y="57" fill="#7dd3fc" font-family="Consolas,monospace" font-size="19">SOFTWARE ENGINEERING / OCTACER</text>
+<text x="40" y="140" fill="#f3f4ff" font-family="Segoe UI,Arial,sans-serif" font-size="77" font-weight="700">Anas Asghar<tspan class="name-cursor" fill="#a78bfa">_</tspan></text>
+<text x="46" y="190" fill="#b7a4ff" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="600">Senior Software Engineer</text>
+<svg x="46" y="210" width="650" height="38" viewBox="0 0 650 38"><text class="tagline" x="0" y="27" fill="#c5d2e7" font-family="Consolas,monospace" font-size="21">Product engineering. Reliable integrations.</text></svg>
+<text x="46" y="277" fill="#7dd3fc" font-family="Consolas,monospace" font-size="16">WEB + MOBILE / BACKEND / AUTOMATION</text>
+<rect x="752" y="56" width="408" height="214" rx="12" fill="#0d1117" stroke="#515475"/>
+<path d="M752 93H1160" stroke="#373c50"/>
+<circle cx="774" cy="75" r="5" fill="#f8798d"/><circle cx="792" cy="75" r="5" fill="#e9bc6f"/><circle cx="810" cy="75" r="5" fill="#70dbb1"/>
+<text x="831" y="80" fill="#9eacc4" font-size="14" font-family="Consolas,monospace">about.ts</text>
+<g font-family="Consolas,monospace" font-size="19">
+<text x="774" y="127" fill="#c4b5fd">const engineer = {</text>
+<text class="line one" x="790" y="164" fill="#7dd3fc">  builds: "web + mobile",</text>
+<text class="line two" x="790" y="201" fill="#70dbb1">  connects: "systems",</text>
+<text class="line three" x="790" y="238" fill="#e9bc6f">  automates: "workflows"</text>
+<text x="1122" y="250" fill="#c4b5fd">};</text></g>
+<rect class="cursor" x="790" y="149" width="2" height="19" rx="1" fill="#c5d2e7"/>
+<style>
+.line{opacity:1;clip-path:inset(0);transform-box:fill-box;animation-duration:12s;animation-iteration-count:infinite;animation-timing-function:linear}
+.one{animation-name:firstLine}.two{animation-name:secondLine}.three{animation-name:thirdLine}
+.tagline{transform-box:fill-box;animation:taglineTyping 12s steps(43,end) infinite}
+@keyframes taglineTyping{0%{clip-path:inset(0 100% 0 0);opacity:1}28%,94%{clip-path:inset(0);opacity:1}98%,100%{clip-path:inset(0);opacity:0}}
+.cursor{animation:caret 12s linear infinite}
+.name-cursor{animation:nameBlink 1.4s steps(1,end) infinite}
+@keyframes nameBlink{0%,100%{opacity:1}55%{opacity:0}}
+@keyframes welcome{from{opacity:.3;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+@keyframes firstLine{0%,5%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(23,end)}18%,94%{clip-path:inset(0);opacity:1}98%,100%{clip-path:inset(0);opacity:0}}
+@keyframes secondLine{0%,20%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(21,end)}33%,94%{clip-path:inset(0);opacity:1}98%,100%{clip-path:inset(0);opacity:0}}
+@keyframes thirdLine{0%,35%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(22,end)}48%,94%{clip-path:inset(0);opacity:1}98%,100%{clip-path:inset(0);opacity:0}}
+@keyframes caret{0%,5%{transform:translate(0,0);opacity:1}18%{transform:translate(264px,0);opacity:1}19%{transform:translate(264px,0);opacity:0}20%{transform:translate(0,37px);opacity:1}33%{transform:translate(240px,37px);opacity:1}34%{transform:translate(240px,37px);opacity:0}35%{transform:translate(0,74px);opacity:1}48%{transform:translate(252px,74px);opacity:1}52%,100%{transform:translate(252px,74px);opacity:0}}
+@media(prefers-reduced-motion:reduce){.line,.tagline,.name-cursor{animation:none;opacity:1;clip-path:none}.cursor{animation:none;opacity:0}}
+</style>
+</svg>
